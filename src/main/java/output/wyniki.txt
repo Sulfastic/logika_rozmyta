@@ -1,0 +1,15 @@
+
+System ekspertowy - logika rozmyta 
+
+Sterownik rozmyty dla statku kosmicznego
+
+Jako wynik otrzymujemy poziom ustawienia ciagu statku kosmicznego 
+
+Poziom jest z przedzialu 0 do 100 
+
+gdzie 0 to slaby ciag a 100 to pelna moc 
+
+
+Dla poziomu paliwa = 64.0 , i predkosci = 31.0
+
+Poziom ciagu statku kosmicznego ustawiono na : 46.1
